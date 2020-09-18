@@ -1,0 +1,29 @@
+{
+  "name": "lincy",
+  "version": "1.0.0",
+  "description": "License integrator for JS projects",
+  "main": "app.js",
+  "dependencies": {
+    "prepend-file": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveknigam3003/lincy.git"
+  },
+  "keywords": [
+    "js",
+    "license",
+    "nodejs",
+    "cli"
+  ],
+  "author": "Vivek Nigam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/viveknigam3003/lincy/issues"
+  },
+  "homepage": "https://github.com/viveknigam3003/lincy#readme"
+}
